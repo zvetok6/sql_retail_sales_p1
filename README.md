@@ -1,5 +1,5 @@
 Retail Sales Analysis using SQL (Project 1)
- Project Overview
+Project Overview
 This project is a retail sales data analysis using SQL Server. The goal is to clean the dataset, explore key business questions, and extract meaningful insights about customer behaviour, sales trends, and product performance.
 ________________________________________
 Dataset Description
