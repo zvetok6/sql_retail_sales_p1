@@ -95,11 +95,11 @@ o	Data analysis section
 ________________________________________
 Project Structure
 Retail Sales Analysis Project
-│
-├── retail_sales_table.sql
-├── data_cleaning_queries.sql
-├── analysis_queries.sql
-└── README.md
+
+- sales_table.sql
+- data_cleaning_queries.sql
+- analysis_queries.sql
+- README.md
 ________________________________________
 Author
 Created by: Alyona Baboglo
